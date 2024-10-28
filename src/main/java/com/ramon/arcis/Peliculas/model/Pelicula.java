@@ -1,4 +1,4 @@
-package com.raul.morales.Peliculas.model;
+package com.ramon.arcis.Peliculas.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

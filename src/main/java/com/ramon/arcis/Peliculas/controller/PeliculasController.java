@@ -1,7 +1,7 @@
-package com.raul.morales.Peliculas.controller;
+package com.ramon.arcis.Peliculas.controller;
 
-import com.raul.morales.Peliculas.model.Pelicula;
-import com.raul.morales.Peliculas.repository.PeliculaRespository;
+import com.ramon.arcis.Peliculas.model.Pelicula;
+import com.ramon.arcis.Peliculas.repository.PeliculaRespository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
