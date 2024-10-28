@@ -5,7 +5,7 @@ En Front tenemos un proyecto videoclubFront, con el lenguaje Html, CSS y Javascr
 Alta de registro:
 Url: http://127.0.0.1:5500/peliculas.html
 ![img.png](img.png)
-Listado de peliculas:
+Listado de peliculas :
 UrlFormulario: http://127.0.0.1:5500/formularioPelis.html
 ![img_1.png](img_1.png)
 
