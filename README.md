@@ -2,7 +2,7 @@
 
 ### Reference Documentation 
 
-Prueba
+Pruebas
 
 http://localhost:8090/api/crearPeliculas
 
